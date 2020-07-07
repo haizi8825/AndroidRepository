@@ -1,2 +1,24 @@
-# AndroidRepository
-开发经验总结
+## 三方开源库收集
+- **[安卓常用工具类库](https://github.com/Blankj/AndroidUtilCode)**
+- **[下拉刷新库](https://github.com/scwang90/SmartRefreshLayout)**
+- **[沉浸式状态栏](https://github.com/gyf-dev/ImmersionBar)**
+- **[蓝牙快速开发框架](https://github.com/Jasonchenlijian/FastBle)**
+- **[筛选控件1](https://github.com/ccj659/PopsTabView)**
+- **[筛选控件2](https://github.com/dongjunkun/DropDownMenu)**
+- **[换肤框架](https://github.com/ximsfei/Android-skin-support)**
+- **[今日头条适配框架](https://github.com/JessYanCoding/AndroidAutoSize)**
+- **[阿里开源布局组件](https://github.com/alibaba/vlayout)**
+- **[表格控件](https://github.com/zhouchaoyuan/excelPanel)**
+- **[权限申请1](https://github.com/yanzhenjie/AndPermission)**
+- **[权限申请2](https://github.com/tbruyelle/RxPermissions)**
+- **[IM即时聊天UI组件](https://github.com/jpush/aurora-imui)**
+- **[Recyclerview的BaseAdapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)**
+- **[App版本更新](https://github.com/WVector/AppUpdate)**
+- **[时间轴1](https://github.com/vivian8725118/TimeLine)**
+- **[时间轴2](https://github.com/baoyachi/StepView)**
+- **[Hybrid框架](https://github.com/Tencent/VasSonic)**
+- **[代替Shape的TextView](https://github.com/lygttpod/SuperTextView)**
+- **[复杂RecyclerView封装库](https://github.com/yangchong211/YCRefreshView)**
+- **[状态切换管理器封装库](https://github.com/yangchong211/YCStateLayout)**
+- **[超级Button](https://github.com/ansnail/superfamily)**
+- **[腾讯开源UI库](https://github.com/Tencent/QMUI_Android)**

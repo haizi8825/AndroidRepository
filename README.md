@@ -22,3 +22,4 @@
 - **[状态切换管理器封装库](https://github.com/yangchong211/YCStateLayout)**
 - **[超级Button](https://github.com/ansnail/superfamily)**
 - **[腾讯开源UI库](https://github.com/Tencent/QMUI_Android)**
+- **[仿微信联系人列表](https://github.com/maoqitian/MyQuickIndexBar)**

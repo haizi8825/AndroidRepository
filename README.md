@@ -1,4 +1,5 @@
 ## 三方开源库收集
+- **[安卓常用开源库总结](https://www.jianshu.com/p/1c40d3aacc2f)**
 - **[安卓常用工具类库](https://github.com/Blankj/AndroidUtilCode)**
 - **[下拉刷新库](https://github.com/scwang90/SmartRefreshLayout)**
 - **[沉浸式状态栏](https://github.com/gyf-dev/ImmersionBar)**
